@@ -16,13 +16,6 @@ const logout =()=>{
   localStorage.removeItem('token')
 }
 
-
-
-
-
-
-
-
   return (
     <div className="flex h-20 items-center justify-between text-sm py-4 mb-5 border-b border-b-gray-400">
       {/* <img className=' h-16 w-24 cursor-pointer object-contain' src={assets.logo}/> */}

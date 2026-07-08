@@ -1,5 +1,5 @@
 import React from "react";
-import { assets } from "../assets/assets";
+// import { assets } from "../assets/assets";
 
 const Footer = () => {
   return (
@@ -34,8 +34,8 @@ const Footer = () => {
         <div>
           <p className="text-xl font-medium mb-5">GET IN TOUCH</p>
           <ul className="flex flex-col gap-2 text-gray-600">
-            <li>6307048900</li>
-            <li>Satyamyadavansi74@gmail.com</li>
+            <li>8303601130</li>
+            <li>adarshyadav280603@gmail.com</li>
           </ul>
         </div>
       </div>
